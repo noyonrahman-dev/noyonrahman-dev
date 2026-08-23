@@ -24,6 +24,4 @@ You can reach me via:
 - LinkedIn: [linkedin.com/in/noyonrahman](https://www.linkedin.com/in/noyonalways/)
 - Twitter: [@noyonrahman](https://twitter.com/noyonalways)
 
-- [Insert a fun fact about yourself]
-
 Let's connect and create something awesome together! 😊
