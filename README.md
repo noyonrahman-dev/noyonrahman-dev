@@ -21,8 +21,8 @@ I'm a passionate developer interested in building cool stuff and exploring new t
 You can reach me via:
 
 - Email: [hello@noyonrahman.com](mailto:hello@noyonrahman.com)
-- LinkedIn: [linkedin.com/in/noyonrahman-dev](https://www.linkedin.com/in/noyonalways/)
-- Twitter: [@noyonrahman_dev](https://twitter.com/noyonalways)
+- LinkedIn: [linkedin.com/in/noyonrahman](https://www.linkedin.com/in/noyonalways/)
+- Twitter: [@noyonrahman](https://twitter.com/noyonalways)
 
 - [Insert a fun fact about yourself]
 
